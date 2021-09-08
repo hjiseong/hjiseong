@@ -1,7 +1,7 @@
-<h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm <a href="https://pkharsoor.me">Punit!</a>🧑🏻‍💻</h2>
+<h2 align='center'> 🙋🏻‍♂️ Hi, I'm <a href="https://pkharsoor.me">Jiseong Hong!</a>🧑🏻‍💻</h2>
 
 <p align="center">
-  <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
+  <br><img src="" width="450px"><br><br>
   <samp> I'm a Avid learner, tinkerer and educator on Data science, Web developement and alumini from University Visvesvaraya College of Engineering (UVCE) Bangalore, IND. I love what I do and I aspire to create new ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense. And Love sharing my knowledge, insights of learning with others through Blogging and other source. Some of the technologies I enjoy working with Python, including Data science tools  packages, NodeJS, ReactJS, other JS frameworks and UI/UX.
   </samp>
   <br>
@@ -13,7 +13,7 @@
 <h3  align='center'>📬 Find me around the web 🌎 </h3>
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=punitkmryh.punitkmryh"></a>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=hjiseong.hjiseong"></a>
 </p>
 
 
@@ -86,29 +86,5 @@ These are my latest posts on [Medium](https://medium.com/@punitkmr), [My blog](h
 <hr>
 
 
-[![Punit's github stats](https://github-readme-stats.vercel.app/api?username=punitkmryh)](https://github.com/punitkmryh)
+[![Punit's github stats](https://github-readme-stats.vercel.app/api?username=hjiseong)](https://github.com/hjiseong)
 
-
-
-<!--<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
-
-![ so cool!](https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg )
-
-
-
-
-
-<!--
-**punitkmryh/punitkmryh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
