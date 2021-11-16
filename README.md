@@ -1,6 +1,6 @@
-<h2 align='center'> 🙋🏻‍♂️ Hi, I'm <a href="https://hjiseong.github.io/performance/">Jisung Hong!</a>🧑🏻‍💻</h2>
+<h2 align='center'> 🙋🏻‍♂️ 안녕하세요! 프론트엔드 개발자 <a href="https://hjiseong.github.io/performance/">홍지성</a>입니다🧑🏻‍💻</h2>
 
-## 📔 My Blog Post
+## 📔 블로그 포스팅
 
 ### 🌰 Git
 - [[프로젝트 관리] 설치하기](https://as-you-say.tistory.com/358)
@@ -21,6 +21,39 @@
 - [[많이쓰는 UI] 댓글](https://as-you-say.tistory.com/379)
 - [[많이쓰는 UI] 파일 업로드](https://as-you-say.tistory.com/380)
 - [[많이쓰는 UI] 이미지 업로드](https://as-you-say.tistory.com/381)
+
+## 참여한 프로젝트
+
+### 아리스, 내 손안의 학술대회
+
+#### 내용
+온라인 및 오프라인 학술대회를 모두 지원하는 모바일 앱으로,
+발표영상 스트리밍, 실시간 질의응답, 학술대회 또는 학회 홍보, 학술대회 결과보고서 등 학술대회 운영에 필요한 모든 서비스를 제공합니다.
+
+- <b>학술대회 홍보</b><br>
+  네트워크디파인즈가 보유한 학술자DB 50만명을 대상으로 연구분야, 주요일정으로 학술대회 홍보가능
+
+- <b>프로그램 일정</b><br>
+  날짜별, 시간별, 트랙 · 세션별 일정을 모바일로 즉시 확인
+  원하는 발표영상을 실시간 스트리밍으로 시청 가능
+
+- <b>발표영상 스트리밍</b><br>
+  스트리밍 솔루션인 줌(zoom), 유튜브(YouTube), 웹엑스(WebEx)와 아리스 앱 연동 지원
+  아리스 앱에서 원하는 스트리밍 솔루션으로 발표영상을 실시간으로 시청
+
+- <b>실시간 질의응답</b><br>
+  학술대회 발표 중 실시간으로 질의응답 가능
+  사회자 또는 좌장을 위한 관리자 뷰 제공
+
+#### 기술스택
+- Frontend - React Native
+- Backend - Node JS
+- Database - MySQL, Firebase
+- Server - AWS
+
+#### 링크
+- [안드로이드](https://play.google.com/store/apps/details?id=com.networkdefines.aris.android)
+- [아이폰](https://apps.apple.com/us/app/%EC%95%84%EB%A6%AC%EC%8A%A4/id1560267972?app=itunes&ign-mpt=uo%3D4)
 
 ## 📈 Github Stats
 [![Punit's github stats](https://github-readme-stats.vercel.app/api?username=hjiseong)](https://github.com/hjiseong)
